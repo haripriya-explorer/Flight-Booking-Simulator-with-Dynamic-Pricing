@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flight Booking Simulator with Dynamic Pricing
 
 A modern flight booking system with dynamic pricing that adjusts based on demand, seat availability, and time to departure.
@@ -82,3 +83,7 @@ The system uses a sophisticated pricing algorithm that considers:
 - Seasonal demand factors
 
 Prices are updated in real-time as bookings are made, ensuring optimal revenue management.
+=======
+# Flight-Booking-Simulator-with-Dynamic-Pricing
+A rule-based flight simulator changes ticket prices automatically. If seats are low or the departure date is near, predefined percentage increases (surcharges) are instantly added to the base fare, making the price fluctuate live for the user.
+>>>>>>> 64e0c2f268eb3717d65d10b34e1f6843663d6f9c
